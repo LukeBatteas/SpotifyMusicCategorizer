@@ -1,0 +1,4 @@
+https://opendatascience.com/a-machine-learning-deep-dive-into-my-spotify-data/
+
+
+https://towardsdatascience.com/how-to-evaluate-unsupervised-learning-models-3aa85bd98aa2
